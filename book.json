@@ -1,19 +1,17 @@
 {
     "title": "demo",
     "description": "demo",
-    "language": "zh",
+    "language": "zh-hans",
     "plugins": [
         "emphasize",
         "katex",
-        "Splitter",
-        "mermaid-gb3"
+        "mermaid-gb3",
         "toggle-chapters",
         "prism",
         "-highlight",
         "ace",
         "include-codeblock",
         "puml",
-        "function-plot",
         "chart",
         "tbfed-pagefooter",
         "todo",
@@ -21,21 +19,12 @@
 
     ],
     "pluginsConfig": {
-        "prism": {
-            "css": [
-                "prism-themes/themes/prism-base16-ateliersulphurpool.light.css"
-            ]
-        },
-        "include-codeblock": {
-            "template": "ace",
-            "unindent": "true",
-            "theme": "monokai"
-        },
+
         "chart": {
             "type": "c3"
         },
         "tbfed-pagefooter": {
-            "copyright": "Copyright &copy zhangjikai.com 2017",
+            "copyright": "Copyright &copy LuoKaKa.com 2019",
             "modify_label": "该文件修订时间：",
             "modify_format": "YYYY-MM-DD HH:mm:ss"
         }
