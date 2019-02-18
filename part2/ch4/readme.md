@@ -1,31 +1,31 @@
 # Machine Learing
 
-1. Pick a Dataset(UCI Reop)
-2. Descriptive Statistics(mean,median,range,SD,Var)
-3. Exploratory Data Analysis
-4. Histograms
-5. Percentiles & Outliners
-6. Probability Theory
-7. Bayes Theorem
-8. Random Variables
-9. Cumul Dist Fn(CDF)
-10. Continuos Distributions(Normal,Poisson,Gaussian)
-11. Skewness
-12. ANOVA
-13. Prob Den Fn(PDF)
-14. Central Limit Theorem
-15. Monte Carlo Method
-16. Hypothesis Testing
-17. P-Value
-18. Chi2 Test
-19. Estimation
-20. FConfid Int(CI)
-21. MLE
-22. Kernel Density Estimate
-23. Reegression
-24. Convariance
-25. Correlation
-26. Pearson Coeff
-27. Causation
-28. Least2 Fit
-29. Euclidean Distance
+1. What is ML?
+2. Numerical Var
+3. Categorical Var
+4. Supervised Learning
+5. Unsupervised Learning
+6. Concepts,Inputs & Attributes
+7. Training & Test Data
+8. Classifier
+9. Prediction
+10. Lift
+11. Overfiting
+12. Bias & Variance
+13. Trees & Classification
+14. Classification Rate
+15. Decision Trees
+16. Boosting
+17. Naive Bayes Classifiers
+18. K-Nearest Neighbor
+19. Logistic Regression
+20. Ranking
+21. Linear Regression
+22. Perceptron
+23. Hierarchical Clustering
+24. K-means Clustering
+25. Neural Networks
+26. Sentiment Analysis
+27. Collaborative Filtering
+28. Tagging
+29. 
