@@ -1,7 +1,12 @@
 # Table of contents
 
 * [引言](README.md)
-* [PART 1:Data Anaylsis](part1/readme.md)
+* [PART 1: Web](part1/readme.md)
+  * [Ch2：Javascript](part1/ch2/readme.md)
+    * [2.13 import&export modules](part1/ch2/module.md)
+  * [Ch7：vue](part1/ch7/readme.md)
+      * [7.1 vue](part1/ch7/vue.md)
+
 
 * [PART 2:Data Anaylsis](part2/readme.md)
   * [Ch1：Fundamentals(基本原理)](part2/ch1/readme.md)
