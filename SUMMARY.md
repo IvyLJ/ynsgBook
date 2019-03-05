@@ -2,8 +2,11 @@
 
 * [引言](README.md)
 * [PART 1: Web](part1/readme.md)
-  * [Ch2：Javascript](part1/ch2/readme.md)
-    * [2.13 import&export modules](part1/ch2/module.md)
+  * [Ch2：引用类型](part1/ch2/readme.md)
+    * [2.1 Object类型](part1/ch2/object.md)
+    * [2.2 Array类型](part1/ch2/array.md)
+  * [Ch3：modules](part1/ch3/readme.md)
+    * [3.1 import&export modules](part1/ch3/module.md)
   * [Ch7：vue](part1/ch7/readme.md)
       * [7.1 vue](part1/ch7/vue.md)
 
