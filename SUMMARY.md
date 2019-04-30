@@ -8,8 +8,8 @@
   * [Ch3：modules](part1/ch3/readme.md)
     * [3.1 import&export modules](part1/ch3/module.md)
   * [Ch7：vue](part1/ch7/readme.md)
-      * [7.1 vue](part1/ch7/vue.md)
-
+      * [7.1 vue基础](part1/ch7/vue1.md)
+      * [7.2 计算属性和侦听器](part1/ch7/vue2.md)
 
 * [PART 2:Data Anaylsis](part2/readme.md)
   * [Ch1：Fundamentals(基本原理)](part2/ch1/readme.md)
