@@ -2,14 +2,13 @@
 
 * [引言](README.md)
 * [PART 1: Web](part1/readme.md)
-  * [Ch2：引用类型](part1/ch2/readme.md)
-    * [2.1 Object类型](part1/ch2/object.md)
-    * [2.2 Array类型](part1/ch2/array.md)
-  * [Ch3：modules](part1/ch3/readme.md)
-    * [3.1 import&export modules](part1/ch3/module.md)
-  * [Ch7：vue](part1/ch7/readme.md)
-      * [7.1 vue基础](part1/ch7/vue1.md)
-      * [7.2 计算属性和侦听器](part1/ch7/vue2.md)
+  * [Introduction](part1/ch0/readme.md)
+  * [CH1 语言](part1/ch1/readme.md)
+  * [CH2 前端框架](part1/ch2/readme.md)
+  * [CH3 数据层](part1/ch3/readme.md)
+  * [CH4 后端框架](part1/ch4/readme.md)
+  * [CH5 测试](part1/ch5/readme.md)
+
 
 * [PART 2:Data Anaylsis](part2/readme.md)
   * [Ch1：Fundamentals(基本原理)](part2/ch1/readme.md)
