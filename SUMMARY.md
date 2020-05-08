@@ -50,4 +50,29 @@
 
 * [PART 3:Algorithms](part3/readme.md)
 * [PART 4:Web development](part4/readme.md)
+
+
+* [PART 5:D3.js](part5/readme.md)
+  * ---第一部分：D3.js基础---
+  * [Ch1：D3.js简介](part5/ch1/readme.md)
+    * [1.1 D3是什么&如何运作](part5/ch1/d3.md)
+    * [1.2 D3&DOM](part5/ch1/dom.md)
+    * [1.3 D3&CSS](part5/ch1/css.md)
+    * [1.4 D3&Javascript](part5/js.md)
+    * [1.5 D3&SVG](part5/ch1/svg.md)
+    * [1.6 数据标准](part5/ch1/data.md)
+  * [Ch2：信息可视化数据流](part5/ch2/readme.md)
+  * [Ch3：数据驱动的设计和交互](part5/ch3/readme.md)
+  * [Ch4：图表组件](part5/ch4/readme.md)
+  * [Ch5：布局](part5/ch5/readme.md)
+
+  * ---第二部分：复杂数据可视化---
+  * [Ch6：分层可视化](part5/ch6/readme.md)
+  * [Ch7：网络可视化](part5/ch7/readme.md)
+  * [Ch8：地理空间信息可视化](part5/ch8/readme.md)
+
+  * ---第三部分：先进技术---
+  * [Ch9：使用React和D3的交互式应用程序](part5/ch9/readme.md)
+  * [Ch10：编写布局和组件](part5/ch10/readme.md)
+  * [Ch11：混合模式渲染](part5/ch11/readme.md)
 * [Help](help.md)
