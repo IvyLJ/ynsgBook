@@ -56,9 +56,9 @@
   * ---第一部分：D3.js基础---
   * [Ch1：D3.js简介](part5/ch1/readme.md)
     * [1.1 D3是什么&如何运作](part5/ch1/d3.md)
-    * [1.2 D3&DOM](part5/ch1/dom.md)
+    * [1.2 D3&DOM](part5/ch1/html.md)
     * [1.3 D3&CSS](part5/ch1/css.md)
-    * [1.4 D3&Javascript](part5/js.md)
+    * [1.4 D3&Javascript](part5/ch1/js.md)
     * [1.5 D3&SVG](part5/ch1/svg.md)
     * [1.6 数据标准](part5/ch1/data.md)
   * [Ch2：信息可视化数据流](part5/ch2/readme.md)
