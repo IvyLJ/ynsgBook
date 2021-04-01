@@ -2,7 +2,6 @@
 
 * [引言](README.md)
 * [PART 1:Data Anaylsis](part1/readme.md)
-
 * [PART 2:Data Anaylsis](part2/readme.md)
   * [Ch1：Fundamentals(基本原理)](part2/ch1/readme.md)
     * [1.1 矩阵与线性代数基础](part2/ch1/matrices-linear.md)
@@ -23,24 +22,17 @@
     * [1.16 正则表达式](part2/ch1/regex.md)
     * [1.17 供应商布局](part2/ch1/ven-landscape.md)
     * [1.18 Env Setup](part2/ch1/env-setup.md)
-
   * [Ch2：Statistics(统计学)](part2/ch2/readme.md)
-
   * [Ch3：Programming(编程)](part2/ch3/readme.md)
-
   * [Ch4：Machine Learing(机器学习)](part2/ch4/readme.md)
-
   * [Ch5：Text Mining/NLP(文本挖掘/神经语言程序学)](part2/ch5/readme.md)
-
   * [Ch6：Visualization(可视化)](part2/ch6/readme.md)
-
   * [Ch7：Big Data(大数据)](part2/ch7/readme.md)
-
   * [Ch8：Data Ingestion(数据接入)](part2/ch8/readme.md)
-
   * [Ch9：Data Minging(数据挖掘)](part2/ch9/readme.md)
   * [Ch10：Toolbox(工具箱)](part2/ch10/readme.md)
-
 * [PART 3:Algorithms](part3/readme.md)
 * [PART 4:Web development](part4/readme.md)
+* Ch1：JavaScript(part3/ch1/readme.md)
+* ch2:  JavaScropt
 * [Help](help.md)
