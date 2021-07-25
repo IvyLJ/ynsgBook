@@ -1,6 +1,6 @@
-# Table of contents
+# 目录
 
-* [引言](README.md)
+<!-- * [引言](README.md)
 * [PART 1: Algorithms](part1/readme.md)
   * [CH1:课程简介及算法分析](part1/ch1/1.md)
   * [CH2:渐进符号、递归及解法](part1/ch1/ch1.md)
@@ -22,9 +22,9 @@
   * [CH20:高级课题 并行算法（一）](part1/ch1/ch1.md)
   * [CH21:高级课题 并行算法（二）](part1/ch1/ch1.md)
   * [CH22:高级课题 缓存参数无关算法](part1/ch1/ch1.md)
-  * [CH23:缓存参数无关算法2](part1/ch1/ch1.md)
+  * [CH23:缓存参数无关算法2](part1/ch1/ch1.md) -->
   
-* [PART 2: 框架](part2/readme.md) 
+* [PART 1: 框架](part2/readme.md) 
   * [1:JavaScript](part2/javascript/menu.md)
       * [1: Internals Of Zone.js](part2/angular/1.md)
   * [2:TypeScript](part2/typescript/menu.md)
@@ -32,8 +32,8 @@
       * [2: TypeScript 基础](part2/typescript/ts_2.md)
       * [3: TypeScript 接口](part2/typescript/ts_3.md)
       * [4: TypeScript 类](part2/typescript/ts_4.md)
-  * [3:Angular](part2/angular/0.md)
-      * [1: Internals Of Zone.js](part2/angular/1.md)
+  <!-- * [3:Angular](part2/angular/0.md)
+      * [1: Internals Of Zone.js](part2/angular/1.md) -->
   <!-- * [4:Essential Angular](part2/essential_angular/0_introduction.md)
       * [CH1:Compilation](part2/essential_angular/1_compilation.md)
       * [CH2:NgModules](part2/essential_angular/2_ngmodules.md)
