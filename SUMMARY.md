@@ -46,9 +46,5 @@
   * [1:C# In Deepth](part3/book/menu.md)
       * [1: Introduction.js](part3/book/1.md) -->
 
-
-<!-- * [PART W: WORK](part_work/readme.md)
-  * [1:760](part_work/760.md)
-  * [2:770](part_work/770.md) -->
 *  
 * [Help](help.md)
