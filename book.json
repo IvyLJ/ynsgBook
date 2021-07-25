@@ -2,10 +2,16 @@
     "title": "demo",
     "description": "demo",
     "language": "zh-hans",
+    
+        "styles": {
+            "website": "styles/website.css"
+            
+        },
+    
     "plugins": [
         "emphasize",
         "katex",
-        "mermaid-gb3",
+        "mermaid-v8",
         "toggle-chapters",
         "prism",
         "-highlight",
@@ -15,8 +21,11 @@
         "chart",
         "tbfed-pagefooter",
         "todo",
-        "alerts"
-
+        "alerts",
+        "back-to-top-button",
+        "splitter",
+        "page-treeview",
+        "expandable-chapters"  
     ],
     "pluginsConfig": {
 
